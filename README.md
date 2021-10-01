@@ -1,4 +1,4 @@
-# Projects-
+# Projects_
 Here I'm sharing projects on which I was working on. 
 
 Guided projects are the learning projects, which gave me the possibility to put my newly aquired Data Scientist skills to real-life problems, with a little assist from the creators of the DataCamp course.
