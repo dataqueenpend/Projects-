@@ -13,3 +13,7 @@ Guided projects are the learning projects, which gave me the possibility to put 
 * [The GitHub History of the Scala Language](https://github.com/dataqueenpend/Projects-/blob/main/The%20GitHub%20History%20of%20the%20Scala%20Language/notebook.ipynb)
 
 * [A Visual History of Nobel Prize Winners](https://github.com/dataqueenpend/Projects-/blob/main/A%20Visual%20History%20of%20Nobel%20Prize%20Winners/notebook.ipynb)
+
+### Kaggle projects
+
+* [House Prices Regression](https://github.com/dataqueenpend/Projects-/blob/Kaggle-Projects/House%20Prices%20Regression%20Kfold%20Shuffle/house_prices_regression_kfold_shuffle.ipynb)
