@@ -14,6 +14,6 @@ Guided projects are the learning projects, which gave me the possibility to put 
 
 * [A Visual History of Nobel Prize Winners](https://github.com/dataqueenpend/Projects-/blob/main/A%20Visual%20History%20of%20Nobel%20Prize%20Winners/notebook.ipynb)
 
-### Kaggle Competitions
+### [Kaggle Competitions](https://github.com/dataqueenpend/Projects-/tree/Kaggle-Projects)
 
-* [House Prices - Advanced Regression Techniques](https://github.com/dataqueenpend/Projects-/blob/main/Kaggle%20House%20Prices%20Competition/house_prices_regression_kfold_shuffle.ipynb)
+* [House Prices - Advanced Regression Techniques](https://github.com/dataqueenpend/Projects-/blob/Kaggle-Projects/House_Prices_Competition_raw.ipynb)
