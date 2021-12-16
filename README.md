@@ -16,4 +16,4 @@ Guided projects are the learning projects, which gave me the possibility to put 
 
 ### [Kaggle Competitions](https://github.com/dataqueenpend/Projects-/tree/Kaggle-Projects)
 
-* [House Prices - Advanced Regression Techniques](https://github.com/dataqueenpend/Projects-/blob/Kaggle-Projects/House_Prices_Competition_raw.ipynb)
+* [House Prices - Advanced Regression Techniques](https://github.com/dataqueenpend/Projects-/tree/Kaggle-Projects)
