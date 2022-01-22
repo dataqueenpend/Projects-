@@ -17,3 +17,7 @@ Guided projects are the learning projects, which gave me the possibility to put 
 ### [Kaggle Competitions](https://github.com/dataqueenpend/Projects-/tree/Kaggle-Projects)
 
 * [House Prices - Advanced Regression Techniques](https://github.com/dataqueenpend/Projects-/tree/Kaggle-Projects)
+* [Song_Popularity_Prediction](https://github.com/dataqueenpend/Projects-/blob/main/Song_Popularity_Prediction.ipynb)
+
+### Real Life Projects
+* [Data_Analysis_of_the_KPI](https://github.com/dataqueenpend/Projects-/blob/main/Data_Analysis_of_the_KPI.ipynb)
