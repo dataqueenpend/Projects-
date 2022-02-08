@@ -23,4 +23,4 @@ Real Life Projects, are samples of real life projects, which I was able to parti
 * [Song_Popularity_Prediction](https://github.com/dataqueenpend/Projects-/blob/main/Song_Popularity_Prediction.ipynb)
 
 ### Real Life Projects
-* [Data_Analysis_of_the_KPI](https://github.com/dataqueenpend/Projects-/blob/main/Data_Analysis_of_the_KPI.ipynb)
+* [Data_Analysis_of_the_KPI](https://github.com/dataqueenpend/Projects-/blob/main/Real%20Life%20Projects/Data_Analysis_of_the_KPI.ipynb)
