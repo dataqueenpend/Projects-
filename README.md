@@ -20,7 +20,7 @@ Real Life Projects, are samples of real life projects, which I was able to parti
 ### Kaggle Competitions
 
 * [House Prices - Advanced Regression Techniques](https://github.com/dataqueenpend/Projects-/tree/main/Housing%20Price%20Predictions)
-* [Song_Popularity_Prediction](https://github.com/dataqueenpend/Projects-/blob/main/Song_Popularity_Prediction.ipynb)
+* [Song Popularity Prediction](https://github.com/dataqueenpend/Projects-/blob/main/Song_Popularity_Prediction.ipynb)
 
 ### Real Life Projects
-* [Data_Analysis_of_the_KPI](https://github.com/dataqueenpend/Projects-/blob/main/Real%20Life%20Projects/Data_Analysis_of_the_KPI.ipynb)
+* [Data Analysis of the KPI](https://github.com/dataqueenpend/Projects-/blob/main/Real%20Life%20Projects/Data_Analysis_of_the_KPI.ipynb)
