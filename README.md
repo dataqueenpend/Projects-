@@ -17,9 +17,9 @@ Real Life Projects, are samples of real life projects, which I was able to parti
 
 * [A Visual History of Nobel Prize Winners](https://github.com/dataqueenpend/Projects-/blob/main/A%20Visual%20History%20of%20Nobel%20Prize%20Winners/notebook.ipynb)
 
-### [Kaggle Competitions](https://github.com/dataqueenpend/Projects-/tree/Kaggle-Projects)
+### Kaggle Competitions
 
-* [House Prices - Advanced Regression Techniques](https://github.com/dataqueenpend/Projects-/tree/Kaggle-Projects)
+* [House Prices - Advanced Regression Techniques](https://github.com/dataqueenpend/Projects-/tree/main/Housing%20Price%20Predictions)
 * [Song_Popularity_Prediction](https://github.com/dataqueenpend/Projects-/blob/main/Song_Popularity_Prediction.ipynb)
 
 ### Real Life Projects
