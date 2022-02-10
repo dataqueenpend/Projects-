@@ -21,6 +21,7 @@ Real Life Projects, are samples of real life projects, which I was able to parti
 
 * [House Prices - Advanced Regression Techniques](https://github.com/dataqueenpend/Projects-/tree/main/Housing%20Price%20Predictions)
 * [Song Popularity Prediction](https://github.com/dataqueenpend/Projects-/blob/main/Song_Popularity_Prediction.ipynb)
+* [Titanic - Survival Analysis and Predictions](https://github.com/dataqueenpend/Projects-/blob/main/Titanic%20-%20Survivcal%20Analysis%20and%20Predictions/Titanic%20Survival%20Analysis%20and%20Predictions.ipynb)
 
 ### Real Life Projects
 * [Data Analysis of the KPI](https://github.com/dataqueenpend/Projects-/blob/main/Real%20Life%20Projects/Data_Analysis_of_the_KPI.ipynb)
