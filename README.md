@@ -1,13 +1,13 @@
 # Projects_
 Here I'm sharing projects on which I was working on. 
 
-Guided projects are the learning projects, which gave me the possibility to put my newly aquired Data Scientist skills to real-life problems, with a little assist from the creators of the DataCamp course.
+DataCamp projects are the projects which were a part of Data Science with Python DataCamp's course, which I completed in October 2021.
 
-Kaggle Competitions projects are projects on Kaggle datasets. 
+Kaggle Competitions projects are the projects on Kaggle datasets. 
 
 Real Life Projects, are samples of real life projects, which I was able to participate in.
 
-### Guided projects
+### DataCamp projects
 
 * [Investigating Netflix Movies and Guest Stars in The Office](https://github.com/dataqueenpend/Projects-/blob/main/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office/notebook.ipynb)
 
